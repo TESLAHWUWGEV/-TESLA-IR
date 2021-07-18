@@ -10,3 +10,7 @@
 > pkg install python2
 
 > pkg install python3
+
+> git clone https://github.com/TESLAHWUWGEV/-TESLA-IR
+
+> python -TESLA-IR
